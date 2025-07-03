@@ -28,3 +28,7 @@ In the intial phase of the Data cleaning, I perfom the following action;
   4. Data cleaning and formatting
   5. creating of Pivot Table for visual
 
+### Analysis
+
+![Screenshot 2025-07-04 000621](https://github.com/user-attachments/assets/14172aa8-8265-4134-bfec-8a0ac0755f63)
+
